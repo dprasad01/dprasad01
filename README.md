@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dprasad01
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning Cybersecurity, Application security
+- 💞️ I’m looking to collaborate on Security
 - 📫 How to reach me by mail
 
 <!---
